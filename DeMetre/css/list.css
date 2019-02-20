@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(129,255,201);
+  font-family: sans-serif;
+}
+#header{
+  background-color: rgb(177,270,277);
+  height: 120px;
+  width: 1910px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+#logo{
+  width: 400px;
+  height: 100px;
+}
+table{
+  border-color: 1px solid black;
+}
